@@ -26,4 +26,4 @@ def read_rfid():
             pass  
 
 if __name__=='__main__':
-    rfidmodule()
+    read_rfid()
