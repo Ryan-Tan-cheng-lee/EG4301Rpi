@@ -25,9 +25,5 @@ def read_rfid():
         except IOError:
             pass  
 
-
-
-
-
 if __name__=='__main__':
     rfidmodule()
